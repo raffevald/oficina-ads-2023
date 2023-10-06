@@ -1,33 +1,38 @@
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\appsettings.json
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\server.exe
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\server.deps.json
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\server.runtimeconfig.json
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\server.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\server.pdb
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.AssemblyInfo.cs
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.csproj.CopyComplete
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\refint\server.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.pdb
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\server.genruntimeconfig.cache
-C:\Users\rafae\OneDrive\Área de Trabalho\oficina\oficina-ads-2023\server\obj\Debug\net7.0\ref\server.dll
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\appsettings.Development.json
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\appsettings.json
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\server.exe
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\server.deps.json
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\server.runtimeconfig.json
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\server.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\server.pdb
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Npgsql.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\evald_lich\oficina_ads\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\staticwebassets.build.json
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\staticwebassets.development.json
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.csproj.CopyComplete
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.dll
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\refint\server.dll
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.pdb
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\evald_lich\oficina_ads\server\obj\Debug\net7.0\ref\server.dll
